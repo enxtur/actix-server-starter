@@ -1,4 +1,4 @@
-# Boilerplate and Starter for Typescript, Node.js server
+# Boilerplate and Starter for Rust and actix-web server
 
 🚀 Boilerplate and Starter for Rust and actix-web, Testing.
 
